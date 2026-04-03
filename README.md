@@ -30,6 +30,20 @@ Repository ini adalah halaman publik resmi untuk informasi produk, dokumentasi s
 
 `Sinema` membantu Anda menyiapkan landing page campaign langsung dari WordPress dengan alur yang lebih cepat dan lebih terstruktur, tanpa harus membangun halaman berulang kali dari nol.
 
+## Mulai Dari Sini
+
+Jika Anda ingin mengetahui akses produk, registrasi user, atau pembelian plugin, gunakan tautan resmi berikut:
+
+- `https://sinema.my.id/`
+
+<p align="center">
+  <a href="https://sinema.my.id/"><img src="https://img.shields.io/badge/Mulai%20Dengan%20Sinema-Kunjungi%20Situs%20Resmi-0f766e?style=for-the-badge" alt="Kunjungi Situs Resmi Sinema"></a>
+</p>
+
+<p align="center">
+  Registrasi, login, dan akses layanan resmi melalui <a href="https://sinema.my.id/">sinema.my.id</a>
+</p>
+
 ## Kenapa Sinema
 
 Membangun landing page campaign secara manual berulang kali akan memakan waktu, sulit dirapikan, dan rawan tidak konsisten.
@@ -78,6 +92,21 @@ Membangun landing page campaign secara manual berulang kali akan memakan waktu, 
 - Mediafire
 - Playstore
 - Video
+
+## Cara Mendapatkan Sinema
+
+Source code plugin `Sinema` tidak dibuka untuk publik dan dikelola secara privat.
+
+Jika Anda berminat menggunakan plugin ini, silakan akses:
+
+- `https://sinema.my.id/`
+
+Melalui situs tersebut Anda dapat:
+
+- registrasi akun baru
+- login sebagai user
+- melihat informasi layanan
+- mengikuti alur pembelian atau aktivasi yang tersedia
 
 ## Alur Singkat
 
@@ -128,44 +157,11 @@ Contoh hasil landing page dengan tampilan modern yang siap dipakai untuk campaig
 - Author: `Dedi Media`
 - Facebook Author: `https://www.facebook.com/dedimedia`
 
-## Cara Mendapatkan Sinema
-
-Source code plugin `Sinema` tidak dibuka untuk publik dan dikelola secara privat.
-
-Jika Anda berminat menggunakan plugin ini, silakan akses:
-
-- `https://sinema.my.id/`
-
-Melalui situs tersebut Anda dapat:
-
-- registrasi akun baru
-- login sebagai user
-- melihat informasi layanan
-- mengikuti alur pembelian atau aktivasi yang tersedia
-
 ## Dokumentasi Publik
 
 Panduan penggunaan publik akan diperbarui bertahap melalui repository ini dan situs resmi.
 
 - Situs resmi: `https://sinema.my.id/`
-
-## Mulai Dari Sini
-
-Jika Anda ingin mengetahui akses produk, registrasi user, atau pembelian plugin, gunakan tautan resmi berikut:
-
-- `https://sinema.my.id/`
-
-## CTA
-
-Jika Anda membutuhkan plugin WordPress yang membantu menyiapkan landing page campaign dengan workflow yang lebih cepat dan lebih terstruktur, `Sinema` siap menjadi titik mulai yang praktis.
-
-<p align="center">
-  <a href="https://sinema.my.id/"><img src="https://img.shields.io/badge/Mulai%20Dengan%20Sinema-Kunjungi%20Situs%20Resmi-0f766e?style=for-the-badge" alt="Kunjungi Situs Resmi Sinema"></a>
-</p>
-
-<p align="center">
-  Registrasi, login, dan akses layanan resmi melalui <a href="https://sinema.my.id/">sinema.my.id</a>
-</p>
 
 ## Kontak Author
 
