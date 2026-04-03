@@ -11,7 +11,7 @@
 <h1 align="center">Sinema</h1>
 
 <p align="center">
-  Plugin WordPress untuk membangun landing page campaign dengan workflow yang lebih cepat, lebih rapi, dan lebih siap dipakai untuk kebutuhan operasional harian.
+  Plugin WordPress untuk membangun landing page campaign dengan workflow yang lebih cepat, lebih rapi, dan lebih siap dipakai untuk kebutuhan operasional yang konsisten.
 </p>
 
 <p align="center">
@@ -24,11 +24,11 @@
   <a href="https://www.facebook.com/dedimedia"><img src="https://img.shields.io/badge/Author-Dedi%20Media-1877F2?style=for-the-badge" alt="Dedi Media"></a>
 </p>
 
-Repository ini adalah halaman publik resmi untuk informasi produk, dokumentasi singkat, dan akses ke layanan `Sinema`.
+Repository ini adalah halaman publik resmi untuk informasi produk, dokumentasi singkat, dan akses layanan `Sinema`.
 
 ## Ringkasnya
 
-`Sinema` membantu Anda menyiapkan landing page campaign langsung dari WordPress dengan alur yang lebih cepat dan lebih terstruktur, tanpa harus membangun halaman berulang kali dari nol.
+`Sinema` membantu Anda menyiapkan landing page campaign langsung dari WordPress dengan alur yang lebih cepat dan lebih terstruktur, tanpa perlu membangun halaman berulang kali dari nol.
 
 ## Mulai Dari Sini
 
@@ -46,19 +46,19 @@ Jika Anda ingin mengetahui akses produk, registrasi user, atau pembelian plugin,
 
 ## Kenapa Sinema
 
-Membangun landing page campaign secara manual berulang kali akan memakan waktu, sulit dirapikan, dan rawan tidak konsisten.
+Membangun landing page campaign secara manual berulang kali akan memakan waktu, sulit dirapikan, dan rawan menghasilkan workflow yang tidak konsisten.
 
 `Sinema` membantu menyederhanakan proses itu melalui panel admin WordPress, sehingga Anda bisa:
 
 - membuat landing page campaign lebih cepat
-- mengelola struktur campaign dari satu tempat
+- mengelola struktur campaign dari satu panel admin
 - memakai tema siap pakai untuk skenario yang berbeda
-- menjaga alur kerja tetap konsisten saat project bertambah
+- menjaga workflow tetap konsisten saat kebutuhan bertambah
 
 ## Nilai Utama
 
-- Lebih cepat tayang untuk campaign baru
-- Lebih rapi dalam pengelolaan konten, source, dan struktur halaman
+- Lebih cepat menyiapkan campaign baru
+- Lebih rapi dalam mengelola konten, source, dan struktur halaman
 - Lebih konsisten saat menangani banyak kebutuhan campaign
 - Lebih praktis karena workflow utama berjalan dari dashboard WordPress
 
@@ -74,7 +74,7 @@ Membangun landing page campaign secara manual berulang kali akan memakan waktu, 
 - pembuatan landing page berbasis campaign
 - workflow operasional yang membutuhkan halaman cepat tayang
 - pengelolaan banyak campaign dari satu dashboard
-- kebutuhan setup yang ingin lebih terstruktur dan berulang
+- kebutuhan setup yang ingin lebih terstruktur dan mudah diulang
 
 ## Fitur Utama
 
@@ -83,7 +83,7 @@ Membangun landing page campaign secara manual berulang kali akan memakan waktu, 
 - Pengelolaan data source sesuai kebutuhan campaign
 - Dukungan asset tambahan untuk campaign tertentu
 - Integrasi lisensi melalui backend
-- Alur kerja yang lebih efisien untuk pembuatan halaman campaign
+- Workflow yang lebih efisien untuk pembuatan halaman campaign
 
 ## Tema yang Didukung
 
@@ -105,7 +105,7 @@ Melalui situs tersebut Anda dapat:
 
 - registrasi akun baru
 - login sebagai user
-- melihat informasi layanan
+- melihat informasi produk dan layanan
 - mengikuti alur pembelian atau aktivasi yang tersedia
 
 ## Alur Singkat
@@ -133,7 +133,7 @@ Halaman aktivasi lisensi untuk mengisi `license key`, `backend URL`, dan memerik
   <img src="./assets/02-campaign-list.webp" alt="Daftar Campaign Sinema" width="100%">
 </p>
 
-Panel daftar campaign dengan aksi utama seperti edit, duplicate, analytics, delete, dan akses cepat untuk membuat campaign baru.
+Panel daftar campaign dengan aksi utama seperti edit, duplicate, analytics, delete, serta akses cepat untuk membuat campaign baru.
 
 ### Campaign Builder
 
@@ -149,7 +149,7 @@ Wizard campaign membantu pengaturan nama, slug, tema, source, monetisasi, dan fi
   <img src="./assets/11-playstore-preview.webp" alt="Preview Landing Playstore Sinema" width="100%">
 </p>
 
-Contoh hasil landing page dengan tampilan modern yang siap dipakai untuk campaign sesuai skenario yang dipilih.
+Contoh hasil landing page dengan tampilan modern yang siap dipakai sesuai skenario campaign yang dipilih.
 
 ## Akses Resmi
 
@@ -179,7 +179,7 @@ Melalui situs resmi: `https://sinema.my.id/`
 
 **Apakah screenshot di halaman ini sama dengan yang muncul di popup detail plugin?**
 
-Mengacu pada materi visual yang sama. Untuk README publik disarankan memakai file `webp` statis agar lebih ringan dan stabil di GitHub.
+Mengacu pada materi visual yang sama. Untuk README publik, file `webp` statis lebih disarankan agar tampil lebih ringan dan stabil di GitHub.
 
 **Di mana saya bisa mengikuti informasi resmi dari author?**
 
