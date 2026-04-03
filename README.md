@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DediMedia/sinema-plugin-user-guide/refs/heads/main/sinema.png" alt="Sinema" width="120">
+  <img src="https://raw.githubusercontent.com/DediMedia/sinema-plugin-user-guide/refs/heads/main/sinema.png" alt="Sinema">
 </p>
 
 <p align="center">
