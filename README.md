@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/sinema.png" alt="Sinema" width="450">
+  <img src="./assets/sinema.png" alt="Sinema" width="350">
 </p>
 
 <p align="center">
@@ -93,7 +93,7 @@ Berikut beberapa tampilan utama dari workflow `Sinema`.
 ### Aktivasi Lisensi
 
 <p align="center">
-  <img src="https://sinema.my.id/updater/screenshots/01-license-activation.webp" alt="Aktivasi Lisensi Sinema" width="100%">
+  <img src="./assets/01-license-activation.webp" alt="Aktivasi Lisensi Sinema" width="100%">
 </p>
 
 Halaman aktivasi lisensi untuk mengisi `license key`, `backend URL`, dan memeriksa status plugin sebelum mulai membuat campaign.
@@ -101,7 +101,7 @@ Halaman aktivasi lisensi untuk mengisi `license key`, `backend URL`, dan memerik
 ### Daftar Campaign
 
 <p align="center">
-  <img src="https://sinema.my.id/updater/screenshots/02-campaign-list.webp" alt="Daftar Campaign Sinema" width="100%">
+  <img src="./assets/02-campaign-list.webp" alt="Daftar Campaign Sinema" width="100%">
 </p>
 
 Panel daftar campaign dengan aksi utama seperti edit, duplicate, analytics, delete, dan akses cepat untuk membuat campaign baru.
@@ -109,7 +109,7 @@ Panel daftar campaign dengan aksi utama seperti edit, duplicate, analytics, dele
 ### Campaign Builder
 
 <p align="center">
-  <img src="https://sinema.my.id/updater/screenshots/06-campaign-step-1.webp" alt="Campaign Builder Sinema" width="100%">
+  <img src="./assets/06-campaign-step-1.webp" alt="Campaign Builder Sinema" width="100%">
 </p>
 
 Wizard campaign membantu pengaturan nama, slug, tema, source, monetisasi, dan finalisasi halaman dalam alur yang lebih terstruktur.
@@ -117,7 +117,7 @@ Wizard campaign membantu pengaturan nama, slug, tema, source, monetisasi, dan fi
 ### Preview Landing
 
 <p align="center">
-  <img src="https://sinema.my.id/updater/screenshots/11-playstore-preview.webp" alt="Preview Landing Playstore Sinema" width="100%">
+  <img src="./assets/11-playstore-preview.webp" alt="Preview Landing Playstore Sinema" width="100%">
 </p>
 
 Contoh hasil landing page dengan tampilan modern yang siap dipakai untuk campaign sesuai skenario yang dipilih.
@@ -155,6 +155,18 @@ Jika Anda ingin mengetahui akses produk, registrasi user, atau pembelian plugin,
 
 - `https://sinema.my.id/`
 
+## CTA
+
+Jika Anda membutuhkan plugin WordPress yang membantu menyiapkan landing page campaign dengan workflow yang lebih cepat dan lebih terstruktur, `Sinema` siap menjadi titik mulai yang praktis.
+
+<p align="center">
+  <a href="https://sinema.my.id/"><img src="https://img.shields.io/badge/Mulai%20Dengan%20Sinema-Kunjungi%20Situs%20Resmi-0f766e?style=for-the-badge" alt="Kunjungi Situs Resmi Sinema"></a>
+</p>
+
+<p align="center">
+  Registrasi, login, dan akses layanan resmi melalui <a href="https://sinema.my.id/">sinema.my.id</a>
+</p>
+
 ## Kontak Author
 
 - Facebook Dedi Media: `https://www.facebook.com/dedimedia`
@@ -171,7 +183,7 @@ Melalui situs resmi: `https://sinema.my.id/`
 
 **Apakah screenshot di halaman ini sama dengan yang muncul di popup detail plugin?**
 
-Ya. Screenshot produk juga disediakan melalui metadata `info.json` updater resmi Sinema.
+Mengacu pada materi visual yang sama. Untuk README publik disarankan memakai file `webp` statis agar lebih ringan dan stabil di GitHub.
 
 **Di mana saya bisa mengikuti informasi resmi dari author?**
 
