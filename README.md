@@ -11,7 +11,11 @@
 <h1 align="center">Sinema</h1>
 
 <p align="center">
-  Plugin WordPress untuk membangun landing page campaign dengan workflow yang lebih cepat, lebih rapi, dan lebih siap dipakai untuk kebutuhan operasional yang konsisten.
+  Bangun landing page campaign lebih cepat, lebih rapi, dan lebih siap dipakai untuk traffic berbayar.
+</p>
+
+<p align="center">
+  Dirancang untuk membantu workflow <strong>Facebook Ads</strong>, <strong>Meta Ads</strong>, <strong>Google Ads</strong>, dan skenario monetisasi seperti <strong>Adsense</strong> agar setup campaign lebih terstruktur dan budget iklan tidak mudah terbuang sia-sia.
 </p>
 
 <p align="center">
