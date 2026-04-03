@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="./assets/sinema.png" alt="Sinema" width="120">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/WordPress-5.8%2B-21759b?style=for-the-badge" alt="WordPress 5.8+">
   <img src="https://img.shields.io/badge/PHP-8.0%2B-777bb4?style=for-the-badge" alt="PHP 8.0+">
   <img src="https://img.shields.io/badge/Private%20Product-Official%20Public%20Guide-0f766e?style=for-the-badge" alt="Official Public Guide">
@@ -44,6 +48,13 @@ Membangun landing page campaign secara manual berulang kali akan memakan waktu, 
 - Lebih konsisten saat menangani banyak kebutuhan campaign
 - Lebih praktis karena workflow utama berjalan dari dashboard WordPress
 
+## Siapa Yang Cocok Menggunakan Sinema
+
+- pengguna WordPress yang membutuhkan landing page campaign lebih cepat
+- tim operasional yang ingin workflow lebih terstruktur
+- pengguna yang sering membuat halaman campaign dengan pola berulang
+- pihak yang ingin mengelola campaign dari dashboard admin yang lebih praktis
+
 ## Cocok Untuk
 
 - pembuatan landing page berbasis campaign
@@ -74,6 +85,17 @@ Membangun landing page campaign secara manual berulang kali akan memakan waktu, 
 2. Registrasi atau login akun Anda
 3. Ikuti alur pembelian atau aktivasi yang tersedia
 4. Gunakan plugin sesuai lisensi dan workflow campaign Anda
+
+## Screenshot
+
+Screenshot antarmuka dan contoh penggunaan akan ditambahkan bertahap di repository ini.
+
+Anda dapat menyiapkan folder berikut di repo public:
+
+- `assets/sinema.png`
+- `assets/screenshot-dashboard.png`
+- `assets/screenshot-campaign.png`
+- `assets/screenshot-license.png`
 
 ## Akses Resmi
 
@@ -111,6 +133,20 @@ Jika Anda ingin mengetahui akses produk, registrasi user, atau pembelian plugin,
 ## Kontak Author
 
 - Facebook Dedi Media: `https://www.facebook.com/dedimedia`
+
+## FAQ Singkat
+
+**Apakah source code plugin ini tersedia untuk publik?**
+
+Tidak. Source code utama plugin dikelola secara privat.
+
+**Di mana saya bisa registrasi atau login?**
+
+Melalui situs resmi: `https://sinema.my.id/`
+
+**Di mana saya bisa mengikuti informasi resmi dari author?**
+
+Melalui halaman Facebook Dedi Media: `https://www.facebook.com/dedimedia`
 
 ## Catatan
 
