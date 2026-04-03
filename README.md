@@ -1,8 +1,30 @@
-# Sinema
+<p align="center">
+  <img src="https://img.shields.io/badge/WordPress-5.8%2B-21759b?style=for-the-badge" alt="WordPress 5.8+">
+  <img src="https://img.shields.io/badge/PHP-8.0%2B-777bb4?style=for-the-badge" alt="PHP 8.0+">
+  <img src="https://img.shields.io/badge/Private%20Product-Official%20Public%20Guide-0f766e?style=for-the-badge" alt="Official Public Guide">
+</p>
 
-Plugin WordPress untuk membangun landing page campaign dengan workflow yang lebih cepat, lebih rapi, dan lebih siap dipakai untuk kebutuhan operasional harian.
+<h1 align="center">Sinema</h1>
+
+<p align="center">
+  Plugin WordPress untuk membangun landing page campaign dengan workflow yang lebih cepat, lebih rapi, dan lebih siap dipakai untuk kebutuhan operasional harian.
+</p>
+
+<p align="center">
+  <a href="https://sinema.my.id/">Registrasi / Login / Pembelian</a> •
+  <a href="https://www.facebook.com/dedimedia">Facebook Dedi Media</a>
+</p>
+
+<p align="center">
+  <a href="https://sinema.my.id/"><img src="https://img.shields.io/badge/Akses%20Sinema-Registrasi%20dan%20Pembelian-0f766e?style=for-the-badge" alt="Akses Sinema"></a>
+  <a href="https://www.facebook.com/dedimedia"><img src="https://img.shields.io/badge/Author-Dedi%20Media-1877F2?style=for-the-badge" alt="Dedi Media"></a>
+</p>
 
 Repository ini adalah halaman publik resmi untuk informasi produk, dokumentasi singkat, dan akses ke layanan `Sinema`.
+
+## Ringkasnya
+
+`Sinema` membantu Anda menyiapkan landing page campaign langsung dari WordPress dengan alur yang lebih cepat dan lebih terstruktur, tanpa harus membangun halaman berulang kali dari nol.
 
 ## Kenapa Sinema
 
@@ -14,6 +36,13 @@ Membangun landing page campaign secara manual berulang kali akan memakan waktu, 
 - mengelola struktur campaign dari satu tempat
 - memakai tema siap pakai untuk skenario yang berbeda
 - menjaga alur kerja tetap konsisten saat project bertambah
+
+## Nilai Utama
+
+- Lebih cepat tayang untuk campaign baru
+- Lebih rapi dalam pengelolaan konten, source, dan struktur halaman
+- Lebih konsisten saat menangani banyak kebutuhan campaign
+- Lebih praktis karena workflow utama berjalan dari dashboard WordPress
 
 ## Cocok Untuk
 
@@ -38,6 +67,13 @@ Membangun landing page campaign secara manual berulang kali akan memakan waktu, 
 - Mediafire
 - Playstore
 - Video
+
+## Alur Singkat
+
+1. Akses `https://sinema.my.id/`
+2. Registrasi atau login akun Anda
+3. Ikuti alur pembelian atau aktivasi yang tersedia
+4. Gunakan plugin sesuai lisensi dan workflow campaign Anda
 
 ## Akses Resmi
 
@@ -65,6 +101,12 @@ Melalui situs tersebut Anda dapat:
 Panduan penggunaan publik akan diperbarui bertahap melalui repository ini dan situs resmi.
 
 - Situs resmi: `https://sinema.my.id/`
+
+## Mulai Dari Sini
+
+Jika Anda ingin mengetahui akses produk, registrasi user, atau pembelian plugin, gunakan tautan resmi berikut:
+
+- `https://sinema.my.id/`
 
 ## Kontak Author
 
