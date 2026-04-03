@@ -36,6 +36,12 @@ Repository ini adalah halaman publik resmi untuk informasi produk, dokumentasi s
 
 Dengan workflow yang lebih rapi, Anda bisa menyiapkan halaman campaign yang lebih cepat tayang, lebih konsisten, dan lebih mudah disesuaikan dengan kebutuhan iklan yang sedang dijalankan.
 
+<p>
+  <img src="https://img.shields.io/badge/Traffic-Meta%20Ads-1877F2?style=flat-square" alt="Meta Ads">
+  <img src="https://img.shields.io/badge/Traffic-Facebook%20Ads-1877F2?style=flat-square" alt="Facebook Ads">
+  <img src="https://img.shields.io/badge/Traffic-Google%20Ads-34A853?style=flat-square" alt="Google Ads">
+</p>
+
 ## Mulai Dari Sini
 
 Jika Anda ingin mengetahui akses produk, registrasi user, atau pembelian plugin, gunakan tautan resmi berikut:
@@ -63,10 +69,24 @@ Membangun landing page campaign secara manual berulang kali akan memakan waktu, 
 
 ## Nilai Utama
 
-- Lebih cepat menyiapkan campaign baru
-- Lebih rapi dalam mengelola konten, source, dan struktur halaman
-- Lebih konsisten saat menangani banyak kebutuhan campaign
-- Lebih praktis karena workflow utama berjalan dari dashboard WordPress
+<table>
+  <tr>
+    <td><strong>Kecepatan</strong></td>
+    <td>Lebih cepat menyiapkan campaign baru tanpa mengulang setup dari nol.</td>
+  </tr>
+  <tr>
+    <td><strong>Kerapian</strong></td>
+    <td>Lebih rapi dalam mengelola konten, source, dan struktur halaman campaign.</td>
+  </tr>
+  <tr>
+    <td><strong>Konsistensi</strong></td>
+    <td>Lebih konsisten saat menangani banyak kebutuhan campaign dalam workflow yang sama.</td>
+  </tr>
+  <tr>
+    <td><strong>Praktis</strong></td>
+    <td>Workflow utama berjalan langsung dari dashboard WordPress.</td>
+  </tr>
+</table>
 
 ## Bantu Iklan Lebih Terkontrol
 
@@ -74,12 +94,32 @@ Saat menjalankan iklan, halaman yang lambat disiapkan atau workflow yang beranta
 
 `Sinema` membantu Anda bekerja lebih terarah agar setup campaign lebih cepat, struktur landing page lebih rapi, dan proses optimasi lebih mudah dijalankan. Tujuannya sederhana: membantu Anda mengurangi potensi boncos karena alur kerja yang tidak efisien.
 
+<p>
+  <img src="https://img.shields.io/badge/Goal-Budget%20Lebih%20Terkontrol-b45309?style=flat-square" alt="Budget Lebih Terkontrol">
+  <img src="https://img.shields.io/badge/Goal-Workflow%20Lebih%20Rapi-0f766e?style=flat-square" alt="Workflow Lebih Rapi">
+  <img src="https://img.shields.io/badge/Goal-Optimasi%20Lebih%20Cepat-1d4ed8?style=flat-square" alt="Optimasi Lebih Cepat">
+</p>
+
 ## Siapa Yang Cocok Menggunakan Sinema
 
-- pengguna WordPress yang membutuhkan landing page campaign lebih cepat
-- tim operasional yang ingin workflow lebih terstruktur
-- pengguna yang sering membuat halaman campaign dengan pola berulang
-- pihak yang ingin mengelola campaign dari dashboard admin yang lebih praktis
+<table>
+  <tr>
+    <td><strong>WordPress User</strong></td>
+    <td>Untuk pengguna WordPress yang membutuhkan landing page campaign lebih cepat.</td>
+  </tr>
+  <tr>
+    <td><strong>Tim Operasional</strong></td>
+    <td>Untuk tim yang ingin workflow campaign lebih terstruktur dan mudah dijalankan.</td>
+  </tr>
+  <tr>
+    <td><strong>Campaign Builder</strong></td>
+    <td>Untuk pengguna yang sering membuat halaman campaign dengan pola berulang.</td>
+  </tr>
+  <tr>
+    <td><strong>Traffic Manager</strong></td>
+    <td>Untuk pihak yang ingin mengelola campaign dari dashboard admin yang lebih praktis.</td>
+  </tr>
+</table>
 
 ## Cocok Untuk
 
@@ -90,12 +130,32 @@ Saat menjalankan iklan, halaman yang lambat disiapkan atau workflow yang beranta
 
 ## Fitur Utama
 
-- Manajemen campaign langsung dari dashboard WordPress
-- Dukungan beberapa tema landing page siap pakai
-- Pengelolaan data source sesuai kebutuhan campaign
-- Dukungan asset tambahan untuk campaign tertentu
-- Integrasi lisensi melalui backend
-- Workflow yang lebih efisien untuk pembuatan halaman campaign
+<table>
+  <tr>
+    <td><strong>Campaign Management</strong></td>
+    <td>Manajemen campaign langsung dari dashboard WordPress.</td>
+  </tr>
+  <tr>
+    <td><strong>Ready-to-Use Themes</strong></td>
+    <td>Dukungan beberapa tema landing page siap pakai.</td>
+  </tr>
+  <tr>
+    <td><strong>Data Source Control</strong></td>
+    <td>Pengelolaan data source sesuai kebutuhan campaign.</td>
+  </tr>
+  <tr>
+    <td><strong>Asset Support</strong></td>
+    <td>Dukungan asset tambahan untuk campaign tertentu.</td>
+  </tr>
+  <tr>
+    <td><strong>License Integration</strong></td>
+    <td>Integrasi lisensi melalui backend.</td>
+  </tr>
+  <tr>
+    <td><strong>Efficient Workflow</strong></td>
+    <td>Workflow yang lebih efisien untuk pembuatan halaman campaign.</td>
+  </tr>
+</table>
 
 ## Mendukung Strategi Monetisasi
 
@@ -103,13 +163,21 @@ Selain membantu kebutuhan landing page campaign, `Sinema` juga relevan untuk wor
 
 Dengan pengaturan halaman yang lebih terstruktur, Anda bisa lebih mudah menyiapkan alur konten, penempatan elemen, dan skenario campaign yang mendukung pengelolaan traffic secara lebih rapi.
 
+<p>
+  <img src="https://img.shields.io/badge/Monetization-Adsense-fbbc05?style=flat-square" alt="Adsense">
+  <img src="https://img.shields.io/badge/Focus-Structured%20Traffic-0f766e?style=flat-square" alt="Structured Traffic">
+  <img src="https://img.shields.io/badge/Use%20Case-Content%20Flow-1f2937?style=flat-square" alt="Content Flow">
+</p>
+
 ## Tema yang Didukung
 
-- Artikel
-- FakeHub
-- Mediafire
-- Playstore
-- Video
+<p>
+  <img src="https://img.shields.io/badge/Tema-Artikel-334155?style=flat-square" alt="Artikel">
+  <img src="https://img.shields.io/badge/Tema-FakeHub-334155?style=flat-square" alt="FakeHub">
+  <img src="https://img.shields.io/badge/Tema-Mediafire-334155?style=flat-square" alt="Mediafire">
+  <img src="https://img.shields.io/badge/Tema-Playstore-334155?style=flat-square" alt="Playstore">
+  <img src="https://img.shields.io/badge/Tema-Video-334155?style=flat-square" alt="Video">
+</p>
 
 ## Cara Mendapatkan Sinema
 
