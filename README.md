@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/sinema.png" alt="Sinema" width="350">
+  <img src="./assets/sinema.png" alt="Sinema" width="450">
 </p>
 
 <p align="center">
