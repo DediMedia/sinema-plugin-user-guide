@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DediMedia/sinema-plugin-user-guide/refs/heads/main/sinema.png" alt="Sinema" width=350>
+  <img src="./assets/sinema.png" alt="Sinema" width="350">
 </p>
 
 <p align="center">
@@ -88,14 +88,39 @@ Membangun landing page campaign secara manual berulang kali akan memakan waktu, 
 
 ## Screenshot
 
-Screenshot antarmuka dan contoh penggunaan akan ditambahkan bertahap di repository ini.
+Berikut beberapa tampilan utama dari workflow `Sinema`.
 
-Anda dapat menyiapkan folder berikut di repo public:
+### Aktivasi Lisensi
 
-- `assets/sinema.png`
-- `assets/screenshot-dashboard.png`
-- `assets/screenshot-campaign.png`
-- `assets/screenshot-license.png`
+<p align="center">
+  <img src="https://sinema.my.id/updater/screenshots/01-license-activation.webp" alt="Aktivasi Lisensi Sinema" width="100%">
+</p>
+
+Halaman aktivasi lisensi untuk mengisi `license key`, `backend URL`, dan memeriksa status plugin sebelum mulai membuat campaign.
+
+### Daftar Campaign
+
+<p align="center">
+  <img src="https://sinema.my.id/updater/screenshots/02-campaign-list.webp" alt="Daftar Campaign Sinema" width="100%">
+</p>
+
+Panel daftar campaign dengan aksi utama seperti edit, duplicate, analytics, delete, dan akses cepat untuk membuat campaign baru.
+
+### Campaign Builder
+
+<p align="center">
+  <img src="https://sinema.my.id/updater/screenshots/06-campaign-step-1.webp" alt="Campaign Builder Sinema" width="100%">
+</p>
+
+Wizard campaign membantu pengaturan nama, slug, tema, source, monetisasi, dan finalisasi halaman dalam alur yang lebih terstruktur.
+
+### Preview Landing
+
+<p align="center">
+  <img src="https://sinema.my.id/updater/screenshots/11-playstore-preview.webp" alt="Preview Landing Playstore Sinema" width="100%">
+</p>
+
+Contoh hasil landing page dengan tampilan modern yang siap dipakai untuk campaign sesuai skenario yang dipilih.
 
 ## Akses Resmi
 
@@ -143,6 +168,10 @@ Tidak. Source code utama plugin dikelola secara privat.
 **Di mana saya bisa registrasi atau login?**
 
 Melalui situs resmi: `https://sinema.my.id/`
+
+**Apakah screenshot di halaman ini sama dengan yang muncul di popup detail plugin?**
+
+Ya. Screenshot produk juga disediakan melalui metadata `info.json` updater resmi Sinema.
 
 **Di mana saya bisa mengikuti informasi resmi dari author?**
 
